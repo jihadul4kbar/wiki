@@ -1,7 +1,7 @@
 ====== Pemrograman Web ======
 ===== Front End =====
+[[html:page#html|Hypertext Markup Language (HTML)]]
 
-==== HTML ====
 ==== CSS ====
 === Basic CSS ===
 === CSS Layout ===
