@@ -1,0 +1,24 @@
+
+====== Selamat Datang  ======
+
+Assalamualikum Warahmatullahi Wabarokatuh
+
+Puji sukur kehadirat Allah SWT atas limpahan rahmat dan karunianya sehingga saya dapat menulis dalam wiki ini. 
+
+Wiki ini berisikan catatan belajar yakni :
+
+[[pemrograman:page#pemrograman|Pemrograman Web]]
+
+[[ Sistem Oprasi ]]
+
+[[ Fundamental Pemrograman ]]
+
+[[ Cyber Scurity ]]
+
+[[ Internet Of Things ]]
+
+[[ server:page#server|Server ]]
+
+[[ dokuwiki:page#dokuwiki| Dokuwiki ]]
+
+

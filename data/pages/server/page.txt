@@ -1,0 +1,4 @@
+=== Administrasi Server  ===
+
+  - [[server:sshremot|Remot Server Secure Shell (SSH)]]
+

@@ -1,0 +1,15 @@
+====== Remot Server Secure Shell (SSH) ======
+
+===== Prasyarat =====
+
+Sebelum melakukan remot jarak jauh yang aman, ada beberapa persyaratan dasar yang harus dipenuhi:((https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows))
+  * Komputer hidup dan terkoneksi jaringan.
+  * Aplikasi harus terinstal di server dan klien.
+  * Anda memerlukan IP atau nama mesin server yang akan remot.
+  * Anda memiliki izin untuk mengakses server.
+  * Firewall mengizikan remot jarak jauh.
+
+===== Seure Shell ? =====
+
+Secure Shell (SSH) adalah sebuah protokol jaringan kriptografi untuk komunikasi data yang aman, login antarmuka baris perintah, perintah eksekusi jarak jauh, dan layanan jaringan lainnya antara dua jaringan komputer. Ini terkoneksi, melalui saluran aman atau melalui jaringan tidak aman, server dan klien menjalankan server SSH dan SSH program klien secara masing-masing . Protokol spesifikasi membedakan antara dua versi utama yang disebut sebagai SSH-1 dan SSH-2. ((https://id.wikipedia.org/wiki/Secure_Shell))
+
