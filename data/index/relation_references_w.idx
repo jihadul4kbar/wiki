@@ -14,3 +14,9 @@ server:page
 server:sshremot
 dokuwiki:page
 html:page
+cyber_security
+webgis:page
+css:page
+js:page
+php:page
+bootstrap:page

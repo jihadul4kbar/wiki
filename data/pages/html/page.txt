@@ -1,5 +1,12 @@
-{{ :html:html5-logo.png?200 |}}
-**Hypertext Markup Language (HTML)** adalah bahasa markup standar untuk membuat halaman Web.
+{{ :html:html5-logo-w3.png?direct&300 |}}
+;#;
+// Logo HTML5 // | sumber https://www.w3.org/html/logo/
+;#;
+
+
+**Hypertext Markup Language HTML** adalah bahasa markup standar untuk membuat halaman Web.
+
+
 ===== Apa itu HTML? =====
   - HTML adalah singkatan dari Hyper Text Markup Language
   - HTML adalah bahasa markup standar untuk membuat halaman Web

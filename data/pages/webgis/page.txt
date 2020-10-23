@@ -1,0 +1,8 @@
+====== Sistem Informasi Geografis ======
+
+
+
+Sofware Pendukung
+  - QGIS (sebelumnya dikenal sebagai Quantum GIS) adalah aplikasi sistem informasi geografis (GIS) desktop sumber terbuka dan bebas lintas platform yang menyediakan tampilan, penyuntingan, dan analisis data. (( Wikipedia - https://id.wikipedia.org/wiki/QGIS ))
+  - OpenStreetMap (OSM) adalah proyek kolaborasi pembuatan peta dunia yang bebas disunting. Dua penggerak utama di balik perintisan dan pertumbuhan OSM adalah terbatasnya penggunaan atau ketersediaan informasi peta di sebagian besar wilayah dunia dan maraknya perangkat navigasi satelit portabel yang terjangkau.(( Wikipedia - https://id.wikipedia.org/wiki/OpenStreetMap ))
+  - Leaflet adalah Library JavaScript open source yang digunakan untuk membangun aplikasi Peta pada halaman web. Pertama kali dirilis pada tahun 2011, mendukung sebagian besar platform seluler dan desktop, mendukung HTML5 dan CSS3.(( Wikipedia - https://en.wikipedia.org/wiki/Leaflet_(software) ))

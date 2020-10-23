@@ -1,23 +1,19 @@
 ====== Pemrograman Web ======
-===== Front End =====
-[[html:page#html|Hypertext Markup Language (HTML)]]
+===== Pengembangan Web Front-End =====
+[[html:page#html|Hypertext Markup Language (HTML)]] \\
+[[css:page#css|Cascading Style Sheet (CSS) ]] \\
+[[js:page#js|JavaScript ]] \\
 
-==== CSS ====
-=== Basic CSS ===
-=== CSS Layout ===
-
-
+===== Framework Front-End =====
+[[bootstrap:page#bootstrap| Bootstrap ]] \\
 
 
 [[https://1linelayouts.glitch.me/| 1 Line Layout]]
-=== Javascript ===
 
+===== Pengembangan Web Back-End =====
+[[php:page#php|PHP: Hypertext Preprocessor]] \\
 
-===== Back End =====
-
-==== PHP ====
-==== JS ====
-==== Framework  ====
+==== Framework Web Back-End ====
 
 
 ===== Database =====

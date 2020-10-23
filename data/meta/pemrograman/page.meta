@@ -1,25 +1,26 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1602904693;s:8:"modified";i:1603355965;}s:7:"creator";s:13:"Jihadul Akbar";s:4:"user";s:12:"jihadul4kbar";s:11:"last_change";a:8:{s:4:"date";i:1603355965;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:16:"pemrograman:page";s:4:"user";s:12:"jihadul4kbar";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-7;}s:11:"contributor";a:1:{s:12:"jihadul4kbar";s:13:"Jihadul Akbar";}s:5:"title";s:15:"Pemrograman Web";s:11:"description";a:2:{s:15:"tableofcontents";a:8:{i:0;a:4:{s:3:"hid";s:15:"pemrograman_web";s:5:"title";s:15:"Pemrograman Web";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:9:"front_end";s:5:"title";s:9:"Front End";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:3:"css";s:5:"title";s:3:"CSS";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:8:"back_end";s:5:"title";s:8:"Back End";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:3:"php";s:5:"title";s:3:"PHP";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:2:"js";s:5:"title";s:2:"JS";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:9:"framework";s:5:"title";s:9:"Framework";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:7;a:4:{s:3:"hid";s:8:"database";s:5:"title";s:8:"Database";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:156:"Pemrograman Web
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1603412030;s:8:"modified";i:1603415559;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1603415559;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:16:"pemrograman:page";s:4:"user";s:12:"jihadul4kbar";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:44;}s:11:"contributor";a:1:{s:12:"jihadul4kbar";s:13:"Jihadul Akbar";}s:5:"title";s:15:"Pemrograman Web";s:11:"description";a:2:{s:15:"tableofcontents";a:6:{i:0;a:4:{s:3:"hid";s:15:"pemrograman_web";s:5:"title";s:15:"Pemrograman Web";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:26:"pengembangan_web_front-end";s:5:"title";s:26:"Pengembangan Web Front-End";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:19:"framework_front-end";s:5:"title";s:19:"Framework Front-End";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:25:"pengembangan_web_back-end";s:5:"title";s:25:"Pengembangan Web Back-End";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:22:"framework_web_back-end";s:5:"title";s:22:"Framework Web Back-End";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:8:"database";s:5:"title";s:8:"Database";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:268:"Pemrograman Web
 
-Front End
+Pengembangan Web Front-End
 
-Hypertext Markup Language (HTML)
+Hypertext Markup Language (HTML) 
 
-CSS
+Cascading Style Sheet (CSS)  
 
-Basic CSS
+JavaScript  
 
-CSS Layout
+
+Framework Front-End
+
+ Bootstrap  
+
 
  1 Line Layout
 
-Javascript
+Pengembangan Web Back-End
 
-Back End
+PHP: Hypertext Preprocessor 
 
-PHP
 
-JS
+Framework Web Back-End
 
-Framework
-
-Database";}s:8:"relation";a:2:{s:10:"references";a:1:{s:9:"html:page";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1602904693;s:8:"modified";i:1603355965;}s:7:"creator";s:13:"Jihadul Akbar";s:4:"user";s:12:"jihadul4kbar";s:11:"last_change";a:8:{s:4:"date";i:1603355965;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:16:"pemrograman:page";s:4:"user";s:12:"jihadul4kbar";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-7;}s:11:"contributor";a:1:{s:12:"jihadul4kbar";s:13:"Jihadul Akbar";}}}
+Database";}s:8:"relation";a:2:{s:10:"references";a:5:{s:9:"html:page";b:1;s:8:"css:page";b:1;s:7:"js:page";b:1;s:14:"bootstrap:page";b:1;s:8:"php:page";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1603412030;s:8:"modified";i:1603415559;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1603415559;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:16:"pemrograman:page";s:4:"user";s:12:"jihadul4kbar";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:44;}s:11:"contributor";a:1:{s:12:"jihadul4kbar";s:13:"Jihadul Akbar";}}}

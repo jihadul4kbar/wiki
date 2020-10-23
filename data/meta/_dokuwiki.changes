@@ -39,3 +39,28 @@
 1603356314	127.0.0.1	E	html:page	jihadul4kbar			417
 1603356603	127.0.0.1	E	html:page	jihadul4kbar			238
 1603356627	127.0.0.1	E	html:page	jihadul4kbar			-15
+1603412030	127.0.0.1	E	start		external edit		24
+1603412639	::1	E	start	jihadul4kbar			26
+1603412673	::1	C	webgis:page	jihadul4kbar	created		41
+1603412698	::1	C	cyber_security	jihadul4kbar	created		29
+1603412030	127.0.0.1	E	cyber_scurity		external edit		3
+1603412737	::1	D	cyber_scurity	jihadul4kbar	removed		-98
+1603412764	::1	E	cyber_security	jihadul4kbar			64
+1603413260	::1	E	webgis:page	jihadul4kbar			953
+1603412030	127.0.0.1	E	html:page		external edit		26
+1603413342	::1	E	html:page	jihadul4kbar			-25
+1603413554	::1	E	html:page	jihadul4kbar			61
+1603414243	::1	E	html:page	jihadul4kbar			0
+1603414322	::1	E	html:page	jihadul4kbar			7
+1603414586	::1	E	html:page	jihadul4kbar			7
+1603412030	127.0.0.1	E	pemrograman:page		external edit		25
+1603415015	::1	E	pemrograman:page	jihadul4kbar			7
+1603415088	::1	E	pemrograman:page	jihadul4kbar			30
+1603415114	::1	C	css:page	jihadul4kbar	created		28
+1603415133	::1	C	js:page	jihadul4kbar	created		10
+1603415221	::1	E	pemrograman:page	jihadul4kbar			-27
+1603415277	::1	E	pemrograman:page	jihadul4kbar			4
+1603415492	::1	E	pemrograman:page	jihadul4kbar			69
+1603415514	::1	C	php:page	jihadul4kbar	created		27
+1603415559	::1	E	pemrograman:page	jihadul4kbar			44
+1603415571	::1	C	bootstrap:page	jihadul4kbar	created		9

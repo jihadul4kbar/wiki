@@ -13,7 +13,7 @@ Wiki ini berisikan catatan belajar yakni :
 
 [[ Fundamental Pemrograman ]]
 
-[[ Cyber Scurity ]]
+[[ Cyber Security ]]
 
 [[ Internet Of Things ]]
 
@@ -21,4 +21,4 @@ Wiki ini berisikan catatan belajar yakni :
 
 [[ dokuwiki:page#dokuwiki| Dokuwiki ]]
 
-
+[[ webgis:page#gis| Sistem Informasi Geografis ]]
