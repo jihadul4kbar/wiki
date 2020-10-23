@@ -7,18 +7,10 @@ Puji sukur kehadirat Allah SWT atas limpahan rahmat dan karunianya sehingga saya
 
 Wiki ini berisikan catatan belajar yakni :
 
-[[pemrograman:page#pemrograman|Pemrograman Web]]
-
-[[ Sistem Oprasi ]]
-
-[[ Fundamental Pemrograman ]]
-
-[[ Cyber Security ]]
-
-[[ Internet Of Things ]]
-
-[[ server:page#server|Server ]]
-
-[[ dokuwiki:page#dokuwiki| Dokuwiki ]]
-
-[[ webgis:page#gis| Sistem Informasi Geografis ]]
+[[pemrograman:page#pemrograman|Pemrograman Web]] \\
+[[ Sistem Oprasi ]] \\
+[[ Cyber Security ]] \\
+[[ Internet Of Things ]] \\
+[[ server:page#server|Server ]] \\
+[[ dokuwiki:page#dokuwiki| Dokuwiki ]] \\
+[[ webgis:page#gis| Sistem Informasi Geografis ]] \\

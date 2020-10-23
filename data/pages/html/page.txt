@@ -1,4 +1,7 @@
+;#;
 {{ :html:html5-logo-w3.png?direct&300 |}}
+;#;
+
 ;#;
 // Logo HTML5 // | sumber https://www.w3.org/html/logo/
 ;#;
@@ -6,6 +9,10 @@
 
 **Hypertext Markup Language HTML** adalah bahasa markup standar untuk membuat halaman Web.
 
+====== Sejarah ======
+===== Pendahuluan =====
+
+====== Pengenalan HTML ======
 
 ===== Apa itu HTML? =====
   - HTML adalah singkatan dari Hyper Text Markup Language
@@ -15,7 +22,12 @@
   - Elemen HTML memberi tahu browser cara menampilkan konten
   - Elemen HTML memberi label bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.
 
-===== Dokumen HTML Sederhan =====
+===== Persiapan Praktik =====
+Sistem Oprasi \\
+Browser \\
+Editor \\
+
+Dokumen HTML Sederhan
 <file html halo.html>
 <!DOCTYPE html>
 <html>

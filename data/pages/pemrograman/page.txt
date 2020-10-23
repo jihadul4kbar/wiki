@@ -1,5 +1,6 @@
 ====== Pemrograman Web ======
 ===== Pengembangan Web Front-End =====
+[[teknologiwebsite:page#teknologiwebsite|Pengenalan Teknologi Web ]] \\
 [[html:page#html|Hypertext Markup Language (HTML)]] \\
 [[css:page#css|Cascading Style Sheet (CSS) ]] \\
 [[js:page#js|JavaScript ]] \\
@@ -11,7 +12,9 @@
 [[https://1linelayouts.glitch.me/| 1 Line Layout]]
 
 ===== Pengembangan Web Back-End =====
+[[fundamental:page#fundamental|Fundamental Pemrograman ]] \\
 [[php:page#php|PHP: Hypertext Preprocessor]] \\
+
 
 ==== Framework Web Back-End ====
 
