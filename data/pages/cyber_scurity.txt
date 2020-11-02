@@ -1,3 +1,0 @@
-====== Cyber Scurity ======
-
-===== Web - Open Web Application Security Project® (OWASP) =====

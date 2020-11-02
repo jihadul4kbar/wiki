@@ -4,9 +4,16 @@
 1602904250	127.0.0.1	E	start	jihadul4kbar			40
 1602904569	127.0.0.1	E	start	jihadul4kbar			127
 1602904617	127.0.0.1	E	start	jihadul4kbar			32
+<<<<<<< HEAD
 1604298288	127.0.0.1	E	start	jihadul4kbar			42
 1604298305	127.0.0.1	E	start	jihadul4kbar			1
 1604298521	127.0.0.1	E	start	jihadul4kbar			1
 1604298623	127.0.0.1	E	start	jihadul4kbar			2
 1604298655	127.0.0.1	E	start	jihadul4kbar			6
 1604298694	127.0.0.1	E	start	jihadul4kbar			4
+=======
+1603412030	127.0.0.1	E	start		external edit		24
+1603412639	::1	E	start	jihadul4kbar			26
+1603416680	::1	E	start	jihadul4kbar			17
+1603416787	::1	E	start	jihadul4kbar			-33
+>>>>>>> 82482b7008f9103df191275dd4c12651c70d2cd7

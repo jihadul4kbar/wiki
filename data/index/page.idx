@@ -10,6 +10,7 @@ fundamental_pemrograman
 cyber_scurity
 internet_of_things
 html:page
+<<<<<<< HEAD
 office:page
 codeigniter
 laravel
@@ -17,3 +18,13 @@ cake_php
 mysql
 mongodb
 mariadb
+=======
+webgis:page
+cyber_security
+css:page
+js:page
+php:page
+bootstrap:page
+teknologiwebsite:page
+fundamental:page
+>>>>>>> 82482b7008f9103df191275dd4c12651c70d2cd7

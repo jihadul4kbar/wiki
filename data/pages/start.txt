@@ -1,6 +1,7 @@
 
 ====== Selamat Datang  ======
 
+<<<<<<< HEAD
 Assalamualikum Warahmatullahi Wabarokatuh\\
 Puji sukur kehadirat Allah SWT atas limpahan rahmat dan karunianya sehingga saya dapat menulis dalam wiki ini. \\
 Wiki ini berisikan catatan belajar yakni :\\
@@ -15,3 +16,18 @@ Wiki ini berisikan catatan belajar yakni :\\
 [[ office:page#office| Office For Linux]]\\
 
 
+=======
+Assalamualikum Warahmatullahi Wabarokatuh
+
+Puji sukur kehadirat Allah SWT atas limpahan rahmat dan karunianya sehingga saya dapat menulis dalam wiki ini. 
+
+Wiki ini berisikan catatan belajar yakni :
+
+[[pemrograman:page#pemrograman|Pemrograman Web]] \\
+[[ Sistem Oprasi ]] \\
+[[ Cyber Security ]] \\
+[[ Internet Of Things ]] \\
+[[ server:page#server|Server ]] \\
+[[ dokuwiki:page#dokuwiki| Dokuwiki ]] \\
+[[ webgis:page#gis| Sistem Informasi Geografis ]] \\
+>>>>>>> 82482b7008f9103df191275dd4c12651c70d2cd7

@@ -1,26 +1,33 @@
 ====== Pemrograman Web ======
-===== Front End =====
-[[html:page#html|Hypertext Markup Language (HTML)]]
+===== Pengembangan Web Front-End =====
+[[teknologiwebsite:page#teknologiwebsite|Pengenalan Teknologi Web ]] \\
+[[html:page#html|Hypertext Markup Language (HTML)]] \\
+[[css:page#css|Cascading Style Sheet (CSS) ]] \\
+[[js:page#js|JavaScript ]] \\
 
-==== CSS ====
-=== Basic CSS ===
-=== CSS Layout ===
-
-
+===== Framework Front-End =====
+[[bootstrap:page#bootstrap| Bootstrap ]] \\
 
 
 [[https://1linelayouts.glitch.me/| 1 Line Layout]]
-=== Javascript ===
+
+===== Pengembangan Web Back-End =====
+[[fundamental:page#fundamental|Fundamental Pemrograman ]] \\
+[[php:page#php|PHP: Hypertext Preprocessor]] \\
 
 
-===== Back End =====
-
+<<<<<<< HEAD
 ==== PHP ====
 ==== JS ====
 ==== Framework  ====
   - [[:codeigniter|CodeIgniter]]
   - [[:laravel|Laravel]]
   - [[:cake_php|Cake PHP]]
+=======
+==== Framework Web Back-End ====
+
+
+>>>>>>> 82482b7008f9103df191275dd4c12651c70d2cd7
 ===== Database =====
   - [[:mysql|My SQL]]
   - [[:mariadb|MariaDB]]

@@ -14,6 +14,7 @@ server:page
 server:sshremot
 dokuwiki:page
 html:page
+<<<<<<< HEAD
 office:page
 codeigniter
 laravel
@@ -21,3 +22,14 @@ cake_php
 mysql
 mariadb
 mongodb
+=======
+cyber_security
+webgis:page
+css:page
+js:page
+php:page
+bootstrap:page
+teknologiwebsite:page
+pemrograman:fundamental_pemrograman
+fundamental:page
+>>>>>>> 82482b7008f9103df191275dd4c12651c70d2cd7
