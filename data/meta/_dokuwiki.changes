@@ -1,24 +1,3 @@
-1602839534	127.0.0.1	C	start	jihadul4kbar	created		196
-1602839967	127.0.0.1	E	start	jihadul4kbar			27
-1602901493	127.0.0.1	E	start	jihadul4kbar			33
-1602901639	127.0.0.1	C	server:page	jihadul4kbar	created		46
-1602901809	127.0.0.1	E	server:page	jihadul4kbar			37
-1602901824	127.0.0.1	E	server:page	jihadul4kbar			1
-1602902549	127.0.0.1	E	server:page	jihadul4kbar			-79
-1602902552	127.0.0.1	D	server:page	jihadul4kbar	removed		-5
-1602902588	127.0.0.1	C	server:page	jihadul4kbar	created		82
-1602902669	127.0.0.1	E	server:page	jihadul4kbar			15
-1602902783	127.0.0.1	E	server:page	jihadul4kbar			-10
-1602903479	127.0.0.1	C	server:sshremot	jihadul4kbar	created		414
-1602903652	127.0.0.1	E	server:sshremot	jihadul4kbar	[Prasyarat] 		91
-1602903942	127.0.0.1	E	server:sshremot	jihadul4kbar			539
-1602903975	127.0.0.1	E	server:sshremot	jihadul4kbar	[Seure Shell ?] 		5
-1602904030	127.0.0.1	E	server:sshremot	jihadul4kbar			0
-1602904051	127.0.0.1	E	server:sshremot	jihadul4kbar			-15
-1602904250	127.0.0.1	E	start	jihadul4kbar			40
-1602904338	127.0.0.1	C	dokuwiki:page	jihadul4kbar	created		98
-1602904377	127.0.0.1	E	dokuwiki:page	jihadul4kbar	[Instalasi Dan Konfigurasi] 		0
-1602904398	127.0.0.1	E	dokuwiki:page	jihadul4kbar	[Panduan Penggunaan] 		-1
 1602904569	127.0.0.1	E	start	jihadul4kbar			127
 1602904617	127.0.0.1	E	start	jihadul4kbar			32
 1602904693	127.0.0.1	C	pemrograman:page	jihadul4kbar	created		96
@@ -39,3 +18,24 @@
 1603356314	127.0.0.1	E	html:page	jihadul4kbar			417
 1603356603	127.0.0.1	E	html:page	jihadul4kbar			238
 1603356627	127.0.0.1	E	html:page	jihadul4kbar			-15
+1604298288	127.0.0.1	E	start	jihadul4kbar			42
+1604298305	127.0.0.1	E	start	jihadul4kbar			1
+1604298491	127.0.0.1	C	office:page	jihadul4kbar	created		228
+1604298521	127.0.0.1	E	start	jihadul4kbar			1
+1604298623	127.0.0.1	E	start	jihadul4kbar			2
+1604298655	127.0.0.1	E	start	jihadul4kbar			6
+1604298694	127.0.0.1	E	start	jihadul4kbar			4
+1604299425	127.0.0.1	C	codeigniter	jihadul4kbar	created		26
+1604299505	127.0.0.1	E	pemrograman:page	jihadul4kbar	[Framework] 		122
+1604299529	127.0.0.1	C	laravel	jihadul4kbar	created		22
+1604299595	127.0.0.1	C	cake_php	jihadul4kbar	created		23
+1604299611	127.0.0.1	E	pemrograman:page	jihadul4kbar	[Framework] 		-39
+1604299638	127.0.0.1	C	mysql	jihadul4kbar	created		21
+1604299702	127.0.0.1	C	mongodb	jihadul4kbar	created		22
+1604299744	127.0.0.1	C	mariadb	jihadul4kbar	created		22
+1604299788	127.0.0.1	E	pemrograman:page	jihadul4kbar	[Database] 		72
+1604300342	127.0.0.1	E	codeigniter	jihadul4kbar			1088
+1604300559	127.0.0.1	E	codeigniter	jihadul4kbar			-31
+1604300618	127.0.0.1	E	codeigniter	jihadul4kbar			1
+1604300942	127.0.0.1	E	codeigniter	jihadul4kbar			121
+1604301111	127.0.0.1	E	codeigniter	jihadul4kbar			40

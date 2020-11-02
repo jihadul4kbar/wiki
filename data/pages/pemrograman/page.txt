@@ -18,8 +18,12 @@
 ==== PHP ====
 ==== JS ====
 ==== Framework  ====
-
-
+  - [[:codeigniter|CodeIgniter]]
+  - [[:laravel|Laravel]]
+  - [[:cake_php|Cake PHP]]
 ===== Database =====
+  - [[:mysql|My SQL]]
+  - [[:mariadb|MariaDB]]
+  - [[:mongodb|MongoDB]]
 
 

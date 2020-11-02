@@ -14,3 +14,10 @@ server:page
 server:sshremot
 dokuwiki:page
 html:page
+office:page
+codeigniter
+laravel
+cake_php
+mysql
+mariadb
+mongodb

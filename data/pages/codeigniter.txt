@@ -1,0 +1,11 @@
+{{ :codeigniter-logo.png?direct&200 |}}
+====== CodeIgniter ======
+
+CodeIgniter adalah Kerangka Pengembangan Aplikasi - toolkit - untuk orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek jauh lebih cepat daripada jika Anda menulis kode dari awal, dengan menyediakan kumpulan pustaka yang kaya untuk tugas-tugas yang umumnya dibutuhkan, serta antarmuka sederhana dan struktur logis untuk mengakses pustaka ini. CodeIgniter memungkinkan Anda secara kreatif fokus pada proyek Anda dengan meminimalkan jumlah kode yang diperlukan untuk tugas tertentu. CodeIgniter dibuat oleh [[https://www.ellislab.com/| EllisLab]], dan sekarang menjadi proyek Institut Teknologi British Columbia ([[https://www.bcit.ca/computing-academic-studies/computing/|BCIT]]).
+
+Jika memungkinkan, CodeIgniter telah dibuat sefleksibel mungkin, memungkinkan Anda bekerja sesuai keinginan Anda, tidak dipaksa bekerja dengan cara tertentu. Kerangka kerja dapat memiliki bagian inti dengan mudah diperpanjang atau diganti seluruhnya untuk membuat sistem berfungsi sesuai kebutuhan Anda. Singkatnya, CodeIgniter adalah kerangka kerja lunak yang mencoba menyediakan alat yang Anda butuhkan sambil tetap berada di luar.
+
+
+
+
+
