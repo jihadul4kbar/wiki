@@ -16,18 +16,15 @@
 [[php:page#php|PHP: Hypertext Preprocessor]] \\
 
 
-<<<<<<< HEAD
 ==== PHP ====
 ==== JS ====
 ==== Framework  ====
+
+==== Framework Web Back-End ====
   - [[:codeigniter|CodeIgniter]]
   - [[:laravel|Laravel]]
   - [[:cake_php|Cake PHP]]
-=======
-==== Framework Web Back-End ====
 
-
->>>>>>> 82482b7008f9103df191275dd4c12651c70d2cd7
 ===== Database =====
   - [[:mysql|My SQL]]
   - [[:mariadb|MariaDB]]
