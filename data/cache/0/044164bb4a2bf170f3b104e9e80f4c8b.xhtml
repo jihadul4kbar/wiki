@@ -1,18 +1,63 @@
 
 <p>
-<a href="/wiki/lib/exe/fetch.php?media=codeigniter-logo.png" class="media" title="codeigniter-logo.png"><img src="/wiki/lib/exe/fetch.php?w=200&amp;tok=761120&amp;media=codeigniter-logo.png" class="mediacenter" alt="" width="200" /></a>
+<a href="https://codeigniter.com/" class="media" title="https://codeigniter.com/" rel="ugc nofollow"><img src="/wiki/lib/exe/fetch.php?w=200&amp;tok=761120&amp;media=codeigniter-logo.png" class="mediacenter" alt="" width="200" /></a>
 </p>
 
-<h1 class="sectionedit1" id="codeigniter">CodeIgniter</h1>
+<h1 class="sectionedit1" id="codeigniter_version_v4xx">CodeIgniter Version v4.x.x</h1>
 <div class="level1">
-
-<p>
-CodeIgniter adalah Kerangka Pengembangan Aplikasi - toolkit - untuk orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek jauh lebih cepat daripada jika Anda menulis kode dari awal, dengan menyediakan kumpulan pustaka yang kaya untuk tugas-tugas yang umumnya dibutuhkan, serta antarmuka sederhana dan struktur logis untuk mengakses pustaka ini. CodeIgniter memungkinkan Anda secara kreatif fokus pada proyek Anda dengan meminimalkan jumlah kode yang diperlukan untuk tugas tertentu. CodeIgniter dibuat oleh <a href="https://www.ellislab.com/" class="urlextern" title="https://www.ellislab.com/" rel="ugc nofollow"> EllisLab</a>, dan sekarang menjadi proyek Institut Teknologi British Columbia (<a href="https://www.bcit.ca/computing-academic-studies/computing/" class="urlextern" title="https://www.bcit.ca/computing-academic-studies/computing/" rel="ugc nofollow">BCIT</a>).
-</p>
-
-<p>
-Jika memungkinkan, CodeIgniter telah dibuat sefleksibel mungkin, memungkinkan Anda bekerja sesuai keinginan Anda, tidak dipaksa bekerja dengan cara tertentu. Kerangka kerja dapat memiliki bagian inti dengan mudah diperpanjang atau diganti seluruhnya untuk membuat sistem berfungsi sesuai kebutuhan Anda. Singkatnya, CodeIgniter adalah kerangka kerja lunak yang mencoba menyediakan alat yang Anda butuhkan sambil tetap berada di luar.
-</p>
+<p class="divalign-justify">CodeIgniter adalah Kerangka Pengembangan Aplikasi - alat bantu - untuk orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek jauh lebih cepat daripada Anda menulis kode dari awal, dengan menyediakan kumpulan pustaka yang kaya untuk tugas-tugas yang umumnya dibutuhkan, serta antarmuka sederhana dan struktur logis untuk mengakses pustaka ini. CodeIgniter memungkinkan fokus pada proyek dengan meminimalkan jumlah kode yang diperlukan untuk tugas tertentu. CodeIgniter dibuat oleh <a href="https://www.ellislab.com/" class="urlextern" title="https://www.ellislab.com/" rel="ugc nofollow"> EllisLab</a>, dikelola dan dikemangkan oleh Institut Teknologi British Columbia (<a href="https://www.bcit.ca/computing-academic-studies/computing/" class="urlextern" title="https://www.bcit.ca/computing-academic-studies/computing/" rel="ugc nofollow">BCIT</a>).</p><!--divalign-->
+<p class="divalign-justify">CodeIgniter telah dibuat sefleksibel mungkin, memungkinkan bekerja sesuai keinginan Anda dan tidak dipaksa bekerja dengan cara tertentu. Kerangka kerja dapat memiliki bagian inti dengan mudah diganti seluruhnya untuk membuat sistem berfungsi sesuai kebutuhan. Singkatnya, CodeIgniter adalah kerangka kerja lunak yang mencoba menyediakan alat yang Anda butuhkan.</p><!--divalign-->
 
 </div>
-<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;CodeIgniter&quot;,&quot;hid&quot;:&quot;codeigniter&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;41-&quot;} -->
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;CodeIgniter Version v4.x.x&quot;,&quot;hid&quot;:&quot;codeigniter_version_v4xx&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;71-1206&quot;} -->
+<h2 class="sectionedit2" id="kebutuhan_server">Kebutuhan Server</h2>
+<div class="level2">
+
+<p>
+<a href="https://www.php.net/" class="urlextern" title="https://www.php.net/" rel="ugc nofollow">PHP</a> versi 7.2 atau lebih baru, sudah terinstal ektensi <strong>intl</strong> dan <strong>mbstring</strong>.<br/>
+Ekstensi PHP berikut harus diaktifkan di server Anda: <strong>php-json, php-mysqlnd, php-xml</strong>
+</p>
+
+<p>
+Untuk menggunakan <strong>CURLRequest</strong>, Anda perlu menginstal <strong>libcurl</strong>.<br/>
+
+Database diperlukan untuk sebagian besar pemrograman aplikasi web. Database yang didukung saat ini
+</p>
+<ul>
+<li class="level1"><div class="li"> MySQL (5.1+) melalui driver </div>
+</li>
+<li class="level1"><div class="li"> PostgreSQL melalui driver </div>
+</li>
+<li class="level1"><div class="li"> SQLite3 melalui driver SQLite3</div>
+</li>
+</ul>
+
+<p>
+Tidak semua driver telah diubah / ditulis ulang untuk CodeIgniter4. Daftar di bawah ini menunjukkan yang luar biasa.
+</p>
+<ul>
+<li class="level1"><div class="li"> Unordered List ItemMySQL (5.1+) melalui driver pdo</div>
+</li>
+<li class="level1"><div class="li"> Oracle melalui driver oci8 dan pdo</div>
+</li>
+<li class="level1"><div class="li"> PostgreSQL melalui driver pdo</div>
+</li>
+<li class="level1"><div class="li"> MS SQL melalui driver mssql, sqlsrv (versi 2005 dan yang lebih baru) dan pdo</div>
+</li>
+<li class="level1"><div class="li"> SQLite melalui sqlite (versi 2) dan driver pdo</div>
+</li>
+<li class="level1"><div class="li"> CUBRID melalui driver cubrid dan pdo</div>
+</li>
+<li class="level1"><div class="li"> Interbase / Firebird melalui driver ibase dan pdo</div>
+</li>
+<li class="level1"><div class="li"> ODBC melalui driver odbc dan pdo (Anda harus tahu bahwa ODBC sebenarnya adalah lapisan abstraksi)</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Kebutuhan Server&quot;,&quot;hid&quot;:&quot;kebutuhan_server&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;1207-2280&quot;} -->
+<h2 class="sectionedit3" id="install">Install</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Install&quot;,&quot;hid&quot;:&quot;install&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;2281-&quot;} -->

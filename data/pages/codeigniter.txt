@@ -1,11 +1,34 @@
-{{ :codeigniter-logo.png?direct&200 |}}
-====== CodeIgniter ======
+[[https://codeigniter.com/|{{ :codeigniter-logo.png?direct&200 |}}]]
 
-CodeIgniter adalah Kerangka Pengembangan Aplikasi - toolkit - untuk orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek jauh lebih cepat daripada jika Anda menulis kode dari awal, dengan menyediakan kumpulan pustaka yang kaya untuk tugas-tugas yang umumnya dibutuhkan, serta antarmuka sederhana dan struktur logis untuk mengakses pustaka ini. CodeIgniter memungkinkan Anda secara kreatif fokus pada proyek Anda dengan meminimalkan jumlah kode yang diperlukan untuk tugas tertentu. CodeIgniter dibuat oleh [[https://www.ellislab.com/| EllisLab]], dan sekarang menjadi proyek Institut Teknologi British Columbia ([[https://www.bcit.ca/computing-academic-studies/computing/|BCIT]]).
-
-Jika memungkinkan, CodeIgniter telah dibuat sefleksibel mungkin, memungkinkan Anda bekerja sesuai keinginan Anda, tidak dipaksa bekerja dengan cara tertentu. Kerangka kerja dapat memiliki bagian inti dengan mudah diperpanjang atau diganti seluruhnya untuk membuat sistem berfungsi sesuai kebutuhan Anda. Singkatnya, CodeIgniter adalah kerangka kerja lunak yang mencoba menyediakan alat yang Anda butuhkan sambil tetap berada di luar.
+====== CodeIgniter Version v4.x.x ======
 
 
+###
+CodeIgniter adalah Kerangka Pengembangan Aplikasi - alat bantu - untuk orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek jauh lebih cepat daripada Anda menulis kode dari awal, dengan menyediakan kumpulan pustaka yang kaya untuk tugas-tugas yang umumnya dibutuhkan, serta antarmuka sederhana dan struktur logis untuk mengakses pustaka ini. CodeIgniter memungkinkan fokus pada proyek dengan meminimalkan jumlah kode yang diperlukan untuk tugas tertentu. CodeIgniter dibuat oleh [[https://www.ellislab.com/| EllisLab]], dikelola dan dikemangkan oleh Institut Teknologi British Columbia ([[https://www.bcit.ca/computing-academic-studies/computing/|BCIT]]).
+###
 
+###
+CodeIgniter telah dibuat sefleksibel mungkin, memungkinkan bekerja sesuai keinginan Anda dan tidak dipaksa bekerja dengan cara tertentu. Kerangka kerja dapat memiliki bagian inti dengan mudah diganti seluruhnya untuk membuat sistem berfungsi sesuai kebutuhan. Singkatnya, CodeIgniter adalah kerangka kerja lunak yang mencoba menyediakan alat yang Anda butuhkan.
+###
+
+===== Kebutuhan Server =====
+[[https://www.php.net/|PHP]] versi 7.2 atau lebih baru, sudah terinstal ektensi **intl** dan **mbstring**.\\ Ekstensi PHP berikut harus diaktifkan di server Anda: **php-json, php-mysqlnd, php-xml**
+
+Untuk menggunakan **CURLRequest**, Anda perlu menginstal **libcurl**.\\
+Database diperlukan untuk sebagian besar pemrograman aplikasi web. Database yang didukung saat ini 
+  * MySQL (5.1+) melalui driver 
+  * PostgreSQL melalui driver 
+  * SQLite3 melalui driver SQLite3
+Tidak semua driver telah diubah / ditulis ulang untuk CodeIgniter4. Daftar di bawah ini menunjukkan yang luar biasa.
+  * Unordered List ItemMySQL (5.1+) melalui driver pdo
+  * Oracle melalui driver oci8 dan pdo
+  * PostgreSQL melalui driver pdo
+  * MS SQL melalui driver mssql, sqlsrv (versi 2005 dan yang lebih baru) dan pdo
+  * SQLite melalui sqlite (versi 2) dan driver pdo
+  * CUBRID melalui driver cubrid dan pdo
+  * Interbase / Firebird melalui driver ibase dan pdo
+  * ODBC melalui driver odbc dan pdo (Anda harus tahu bahwa ODBC sebenarnya adalah lapisan abstraksi)
+
+===== Install  =====
 
 
